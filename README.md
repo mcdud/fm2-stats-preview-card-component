@@ -24,5 +24,5 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://mcdud.github.io/fm2-stats-preview-card-component/)
+- Live Site URL: [https://mcdud.github.io/fm2-stats-preview-card-component/]
 
