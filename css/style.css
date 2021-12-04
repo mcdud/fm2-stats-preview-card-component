@@ -106,6 +106,17 @@ body {
   margin: 0.4rem;
 }
 
+.attribution {
+  position: fixed;
+  top: 0;
+  font-size: 0.8rem;
+  color: var(--white-color);
+}
+
+.attribution > a {
+  color: var(--accent-color);
+}
+
 @media screen and (min-width: 400px) {
   .card__stats {
     flex-direction: row;
@@ -159,15 +170,4 @@ body {
   .card__stats-item p {
     margin: 0.4rem 0 0 0;
   }
-}
-
-.attribution {
-  position: absolute;
-  bottom: 0;
-  font-size: 0.8rem;
-  color: var(--white-color);
-}
-
-.attribution > a {
-  color: var(--accent-color);
 }
