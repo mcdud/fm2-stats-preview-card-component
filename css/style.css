@@ -29,7 +29,7 @@ body {
 }
 
 .card {
-    max-width: 600px;
+  max-width: 600px;
   display: flex;
   flex-direction: column;
   background-color: var(--card-bg-color);
@@ -159,4 +159,15 @@ body {
   .card__stats-item p {
     margin: 0.4rem 0 0 0;
   }
+}
+
+.attribution {
+  position: absolute;
+  bottom: 0;
+  font-size: 0.8rem;
+  color: var(--white-color);
+}
+
+.attribution > a {
+  color: var(--accent-color);
 }
